@@ -1,8 +1,11 @@
 # Tetris
 
-To play tetris game you must download and set up raylib and Microsoft Visiual Studio for your personal computer.
+To play tetris game you must download and set up raylib and Microsoft Visiual Studio for your personal computer.(Couldn't upload setups because of their high bits)
 
-The shared folders contains both raylib and Microsoft Visiual Studio setups.(You can also google them).
+Links for setups:
+  https://visualstudio.microsoft.com/
+  https://www.raylib.com/
+(if you couldn't make the setups you can try youtube for tutorials.) 
 
 Game written only in c++.
 
